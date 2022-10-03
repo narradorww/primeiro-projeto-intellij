@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55401e3e-67b5-44a0-9429-0a1d3aab3a29" name="Changes" comment="create app">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primeiro-projeto-intellij.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/PrimeiroProgramaJ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/model/BreakContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/model/ContaCarneiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/model/DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/model/Gato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/model/PosicaoAluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/model/WhileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/model/AboutMe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,12 +40,12 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DoWhile">
-    <configuration name="BreakContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.dio.model.BreakContinue" />
+  <component name="RunManager" selected="Application.AboutMe">
+    <configuration name="AboutMe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.model.AboutMe" />
       <module name="primeiro-projeto-intellij" />
       <extension name="coverage">
         <pattern>
@@ -67,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContaCarneiro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.dio.model.ContaCarneiro" />
+    <configuration name="BreakContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.model.BreakContinue" />
       <module name="primeiro-projeto-intellij" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AboutMe" />
         <item itemvalue="Application.DoWhile" />
         <item itemvalue="Application.WhileExample" />
         <item itemvalue="Application.BreakContinue" />
         <item itemvalue="Application.PosicaoAluno" />
-        <item itemvalue="Application.ContaCarneiro" />
       </list>
     </recent_temporary>
   </component>
@@ -138,6 +128,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664330040700</updated>
     </task>
+    <task id="LOCAL-00001" summary="create app">
+      <created>1664764389082</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664764389082</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +146,16 @@
             <State />
           </value>
         </entry>
+        <entry key="a9cc3e93-5b0e-40de-94c9-591e0ce1657d">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="a9cc3e93-5b0e-40de-94c9-591e0ce1657d" value="TOOL_WINDOW" />
       </map>
     </option>
   </component>
@@ -175,5 +183,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
